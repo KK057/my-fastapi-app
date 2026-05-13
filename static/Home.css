@@ -1,0 +1,38 @@
+.post{
+    background-color: #794e96;
+}
+.meta {
+    color: #79c62d; /* This is a common grey for "meta" info */
+    font-size: 0.9rem;
+    font-style: italic;
+}
+strong{
+    color: #79c62d; /* This is a common grey for "meta" info */
+    font-size: 0.9rem;
+    font-style: italic;
+}
+/* Target the navbar background */
+.navbar {
+    background-color: #6a1b9a !important; /* A deep purple */
+}
+
+/* Target the links inside the navbar */
+.navbar .nav-link {
+    color: white !important;
+}
+
+/* Target the brand name */
+/* Target the navbar background */
+.navbar {
+    background-color: #6a1b9a !important; /* A deep purple */
+}
+
+/* Target the links inside the navbar */
+.navbar .nav-link {
+    color: white !important;
+}
+
+/* Target the brand name */
+.navbar-brand {
+    color: #ffd700 !important; /* Gold */
+}
